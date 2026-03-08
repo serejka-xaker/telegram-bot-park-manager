@@ -1,0 +1,7 @@
+aiogram==3.22.0
+aiohttp==3.11.13
+python-dotenv==1.2.1
+pytz==2025.1
+SQLAlchemy==2.0.44
+psycopg2-binary==2.9.11
+asyncpg==0.30.0
